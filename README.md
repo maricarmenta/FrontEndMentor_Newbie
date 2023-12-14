@@ -6,7 +6,7 @@ Recopilatorio de los retos nivel newbie de frontend.io.
 
 ## Newbie challenges
 
-- **Workit landing page** HTML | CSS
+- **Workit landing page** HTML | CSS - `Premium`
 - **Stats preview card component** HTML | CSS
 - **Four card feature section** HTML | CSS
 - **Single price grid component** HTML | CSS
