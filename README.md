@@ -14,5 +14,6 @@ Recopilatorio de los retos nivel newbie de frontend.io.
 
   ...
 - **Interactive rating component** HTML | CSS | JavaScript
+- **Base Apparel coming soon page** HTML | CSS | JavaScript
 
 Este repositorio será actualizado frecuentemente con algunos retos que ofrece la web (algunos premium).
