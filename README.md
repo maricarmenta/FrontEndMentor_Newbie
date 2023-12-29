@@ -11,6 +11,7 @@ Recopilatorio de los retos nivel newbie de frontend.io.
 - **Four card feature section** HTML | CSS
 - **Single price grid component** HTML | CSS
 - **Blog preview card** HTML | CSS
+
   ...
 - **Interactive rating component** HTML | CSS | JavaScript
 
